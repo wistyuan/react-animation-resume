@@ -30,7 +30,7 @@ class ReactClass extends React.Component {
 
 ## 教育经历
 
-1. **广西大学 - 国际贸易**                        本科
+1. **广西大学 - 网络工程**                        本科
 
 	* 校一等奖学金
 
@@ -57,7 +57,7 @@ cet-4
 		this.styleEditorContent = [`/*
 * Inspired by http://strml.net/
 * 
-* 你好, 我是黄志远
+* 你好, 我是huanghziyuan
 * 2018年准备结束了，好多公司都加大力度开展新一轮的招聘工作，相信你也在为心仪的公司准备简历吧。
 *
 * 下面我用 React 做了一份简易的动态简历
